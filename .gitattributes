@@ -1,0 +1,10 @@
+# Normalize line endings on check-in; use LF in the repository
+* text=auto eol=lf
+
+# Explicitly mark binary files - no line ending conversion whatsoever
+*.png binary
+*.jpeg binary
+*.jpg binary
+*.pdf binary
+*.docx binary
+*.zip binary
