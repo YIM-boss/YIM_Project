@@ -1,6 +1,6 @@
-Cognitive Amplification: A Framework for Human-AI Collaborative Authorship — and the Instruments that Make it Real
+﻿Cognitive Amplification: A Framework for Human-AI Collaborative Authorship — and the Instruments that Make it Real
 
-**Author:** Ernesto Antonio Taylor \| YIM Project \| [yeahitsme.com](https://yeahitsme.com) **Version:** 1.6 \| **Date:** April 2026 **DOI (Zenodo Archive):** [10.5281/zenodo.19425349](https://doi.org/10.5281/zenodo.19425349) **GitHub Repository Persistent Snapshot:** [Cognitive Amplification Essay](https://github.com/YIM-boss/YIM_Project/tree/1126851a063d0d1c57b41bc4b07c399bde043551/Cognitive%20Amplification%20Essay)
+**Author:** Ernesto Antonio Taylor \| YIM Project \| [yeahitsme.com](https://yeahitsme.com) **Version:** 1.6 \| **Date:** April 2026 **DOI (Zenodo Archive):** [10.5281/zenodo.19425349](https://doi.org/10.5281/zenodo.19425349) **GitHub Repository Persistent Snapshot:** [Cognitive Amplification Essay](https://github.com/YIM-boss/YIM_Project/tree/589d609bb693fe4b0a5aaebffeba1ec2fff0c646/Cognitive%20Amplification%20Essay)
 
 ***
 
@@ -36,7 +36,7 @@ The essay grounds its argument in two case studies drawn from lived experience: 
 
 | File                                                            | Description                                                                                                                                                                                                                              |
 |-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `VERIFICATION-REPORT-v1.6.md`                                   | Internal verification report - An independently conducted claim-by-claim verification of every verifiable assertion in the essay. Documents what was reviewed, what evidence was examined, and the verification status of all 28 claims. |
+| `VERIFICATION-REPORT-v1.6.pdf`                                  | Verification report PDF - An independently conducted claim-by-claim verification of every verifiable assertion in the essay. Documents what was reviewed, what evidence was examined, and the verification status of all 28 claims.  |
 | `Cognitive-Amplification-Framework-SHA256-FILE-MANIFEST.txt`    | SHA256 hashes of every individual file in this folder and the `media` subfolder. Use to verify any individual file has not been altered.                                                                                                 |
 | `Cognitive-Amplification-Framework-SHA256-ARCHIVE-MANIFEST.txt` | SHA256 hash of the zip archive. Use to verify the archive as a whole.                                                                                                                                                                    |
 | `Cognitive-Amplification-Framework-v1.6-ARCHIVE.zip`            | Complete archive - All documents plus the media folder, compressed into a single file for download and long-term storage.                                                                                                                |
@@ -64,7 +64,7 @@ The Zenodo archive at [10.5281/zenodo.19425349](https://doi.org/10.5281/zenodo.1
 
 ## How to Cite
 
->   Taylor, E. A. (2026). *Cognitive Amplification: A Framework for Human-AI Collaborative Authorship* (v1.6). YIM Project. DOI: [10.5281/zenodo.19425349](https://doi.org/10.5281/zenodo.19425349)
+>   Taylor, E. A. (2026). *Cognitive Amplification: A Framework for Human-AI Collaborative Authorship -- and the Instruments that Make it Real* (v1.6). YIM Project. DOI: [10.5281/zenodo.19425349](https://doi.org/10.5281/zenodo.19425349)
 
 ***
 
