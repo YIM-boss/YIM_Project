@@ -1,4 +1,4 @@
-Cognitive Amplification: A Framework for Human-AI Collaborative Authorship
+Cognitive Amplification: A Framework for Human-AI Collaborative Authorship — and the Instruments that Make it Real
 
 **Author:** Ernesto Antonio Taylor\| YIM Project \| yeahitsme.com
 

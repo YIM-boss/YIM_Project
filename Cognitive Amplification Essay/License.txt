@@ -1,4 +1,4 @@
-﻿Cognitive Amplification: A Framework for Human-AI Collaborative Authorship
+﻿Cognitive Amplification: A Framework for Human-AI Collaborative Authorship -- and the Instruments That Make It Real
 License and Terms of Use
 
 This license applies to all files in this folder and its subfolders,
