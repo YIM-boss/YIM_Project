@@ -1,0 +1,34 @@
+﻿SHA256 ARCHIVE MANIFEST - COGNITIVE AMPLIFICATION ESSAY v1.6
+Generated: 2026-04-11 12:39:41
+
+================================================================================
+ARCHIVE FILE
+================================================================================
+
+File: Cognitive-Amplification-Framework-v1.6-ARCHIVE.zip
+Size: 61575417 bytes (58.72 MB)
+SHA256: 61D8FCF992D7CE95334A476C21363DAC3B03217DDF14491252DA9FC25127D0D2
+
+================================================================================
+ARCHIVE CONTENTS (19 files)
+================================================================================
+
+Cognitive Amplification-A Framework for Human-AI Collaborative Authorship v1.6 AUDIT-TRAIL.docx
+Cognitive Amplification-A Framework for Human-AI Collaborative Authorship v1.6 AUDIT-TRAIL.md
+Cognitive Amplification-A Framework for Human-AI Collaborative Authorship v1.6 AUDIT-TRAIL.pdf
+Cognitive Amplification-A Framework for Human-AI Collaborative Authorship v1.6.docx
+Cognitive Amplification-A Framework for Human-AI Collaborative Authorship v1.6.md
+Cognitive Amplification-A Framework for Human-AI Collaborative Authorship v1.6.pdf
+Cognitive-Amplification-Framework-SHA256-FILE-MANIFEST.txt
+media\Cognitive-Amplification-Cover-Image.png
+media\Cognitive-Amplification-Figure-1.jpeg
+media\Cognitive-Amplification-Figure-2.png
+media\Cognitive-Amplification-Figure-3.png
+media\Cognitive-Amplification-Figure-4.png
+media\Cognitive-Amplification-Figure-5.png
+media\Cognitive-Amplification-Figure-6.png
+media\Cognitive-Amplification-Figure-7.png
+media\Cognitive-Amplification-Figure-8.png
+media\Cognitive-Amplification-Figure-9.png
+README.md
+VERIFICATION-REPORT-v1.6.md

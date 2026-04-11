@@ -2,11 +2,17 @@ Cognitive Amplification: A Framework for Human-AI Collaborative Authorship
 
 **Author:** Ernesto Antonio Taylor\| YIM Project \| yeahitsme.com
 
-Preprint - v1.6 (April 2026)  
-**Date:** 2026-04-11  
-**DOI:** 10.5281/zenodo.19425349
+Preprint - v1.6 (April 2026)
 
-Related work: From Micro-Failure Tags to Defensive Syndromes: A Technical Framework for the Core Six User-Facing Failure Modes in AI Assistants - the primary research corpus this essay references - is available at DOI:10.5281/zenodo.19423182. 
+Author: Ernesto Antonio Taylor\| YIM Project \| yeahitsme.com
+
+Date: 2026-04-11 STUDY TYPE: Conceptual Framework Version 2.0.0
+
+PERMANENT IDENTIFIER: [[DOI: 10.5281/zenodo.19425349](https://doi.org/10.5281/zenodo.19425349)]
+
+SOURCE REPOSITORY: [[Cognitive Amplification Essay](https://github.com/YIM-boss/YIM_Project/tree/074c6cc699489dbfb53b5d7e49e16015c3946755/Cognitive%20Amplification%20Essay)]
+
+ASSOCIATED MANUSCRIPT DOI: From Micro-Failure Tags to Defensive Syndromes: A Technical Framework for the Core Six User-Facing Failure Modes in AI Assistants - [DOI: 10.5281/zenodo.19423182](https://doi.org/10.5281/zenodo.19423182)
 
 # Full Development Audit Trail
 
