@@ -2,15 +2,17 @@
 
 Cognitive Amplification: A Framework for Human-AI Collaborative Authorship — and the Instruments that Make it Real
 
-Author: Ernesto Antonio Taylor\| YIM Project \| yeahitsme.com
+Author: Ernesto Antonio Taylor \| YIM Project \| yeahitsme.com
 
 Preprint - v1.6 (April 2026)
 
 Abstract: Cognitive amplification is a methodology for human-AI collaborative work in which AI serves as instrument rather than co-author. This paper introduces a two-layer operational framework - an advisory layer that challenges and sharpens human intent, and an implementer layer that executes against specifications the human has already developed - and argues that authorship remains entirely with the human when the architecture is enforced correctly. The framework emerged from 18 months of adversarial practice building the YIM Project, including 50,000+ documented conversation turns across 250+ sessions and the development of the Core Six taxonomy of AI defensive behaviors (Taylor, 2026, doi:10.5281/zenodo.19423182). It is demonstrated across two domains: a sustained independent research program and a real-time legal crisis managed without an attorney. The central claim is that the bottleneck in serious knowledge work is rarely raw intelligence - it is the gap between what a practitioner understands and what they can articulate, organize, and sustain across a complex project. Cognitive amplification addresses that gap without displacing the thinking that belongs to the human.
 
-Date: 2026-04-11 DOI: 10.5281/zenodo.19425349 Github Repository Persistent Snapshot: Cognitive Amplification Essay
+**Date:** 2026-04-11  
+**DOI:** [10.5281/zenodo.19425349](https://doi.org/10.5281/zenodo.19425349)  
+**GitHub Repository Persistent Snapshot:** [Cognitive Amplification Essay](https://github.com/YIM-boss/YIM_Project/tree/074c6cc699489dbfb53b5d7e49e16015c3946755/Cognitive%20Amplification%20Essay)
 
-Related work: From Micro-Failure Tags to Defensive Syndromes: A Technical Framework for the Core Six User-Facing Failure Modes in AI Assistants - the primary research corpus this essay references - is available at DOI:10.5281/zenodo.19423182.
+**Related work:** *From Micro-Failure Tags to Defensive Syndromes: A Technical Framework for the Core Six User-Facing Failure Modes in AI Assistants -* the primary research corpus this essay references – (STATUS: [The Core Six : DOI reserved](https://yeahitsme.com/core-six) - DOI:10.5281/zenodo.19423182)
 
 Keywords: cognitive amplification, human-AI collaboration, AI-assisted authorship, advisory-implementer architecture, AI defensive behaviors, independent practitioner research, knowledge work methodology
 
@@ -18,7 +20,7 @@ Keywords: cognitive amplification, human-AI collaboration, AI-assisted authorshi
 
 I built the YIM Project as one person using AI, but it didn’t start as a philosophical exercise in collaboration. It started as a 50,000-turn brawl against the machines themselves. Over 18 months and more than 250 sessions, I was trying to build a software application, and the AI assistants kept failing. They weren’t just making coding errors; they were exhibiting systematic defensive behaviors - simulating competence, declaring tasks finished when they weren’t, and quietly dropping constraints.
 
-To document those 80+ episodes of failure and build the Core Six taxonomy of AI defensive behaviors (Taylor, 2026, doi:10.5281/zenodo.19423182), I couldn’t just work harder. I had to fundamentally change how I interacted with the models. I had to stop treating them as oracles and start using them as an exoskeleton for my own judgment.
+To document those 80+ episodes of failure and build the Core Six taxonomy of AI defensive behaviors (Taylor, 2026, [STATUS DOI Reserved](https://yeahitsme.com/core-six) - 10.5281/zenodo.19423182), I couldn’t just work harder. I had to fundamentally change how I interacted with the models. I had to stop treating them as oracles and start using them as an exoskeleton for my own judgment.
 
 ## The Method: Cognitive Amplification
 
@@ -108,7 +110,7 @@ This is not a pipeline. It is not automation. It is a cognitive instrument, and 
 
 ## Two Conversations on Two Platforms, and What Happened Between Them
 
-The Core Six taxonomy (Taylor, 2026, doi:10.5281/zenodo.19423182) has six behaviors. How the sixth arrived is the clearest demonstration of what cognitive amplification actually does - not what was found, but the mechanism that found it.
+The Core Six taxonomy (Taylor, 2026, [DOI reserved](https://yeahitsme.com/core-six)) has six behaviors. How the sixth arrived is the clearest demonstration of what cognitive amplification actually does - not what was found, but the mechanism that found it.
 
 I want to tell you about a specific night, because this is what cognitive amplification looks like when it does its most dangerous and most beautiful work - not executing a plan, but holding space for a thought you didn’t know you were about to have.
 
@@ -160,7 +162,7 @@ The same cognitive amplification architecture that let me analyze 80 research ep
 
 Here’s what that looked like.
 
-**February 26, first thread.** I uploaded the case packet to Perplexity AI with a single question: is this case legally strong? The AI came back with Georgia habitability law: HB 404, O.C.G.A. ss 44-7-13, the Safe at Home Act. Four legal theories - habitability breach, negligence, retaliatory eviction, disability discrimination. Professional legal framing I couldn’t have built from scratch. Case strengths assessment based on what the documentation showed.
+**February 26, first thread.** I uploaded the case packet to Perplexity AI with a single question: is this case legally strong? The AI came back with Georgia habitability law: HB 404, O.C.G.A. **§** 44-7-13, the Safe at Home Act. Four legal theories - habitability breach, negligence, retaliatory eviction, disability discrimination. Professional legal framing I couldn’t have built from scratch. Case strengths assessment based on what the documentation showed.
 
 And then I started correcting it.
 
@@ -284,13 +286,13 @@ What I didn’t plan for: AI would fabricate the validation statistics. Cohen’
 
 Over 18 months, that vigilance produced an entire research ecosystem that now exists in the world.
 
-The taxonomies and frameworks. The Core Six (Taylor, 2026, doi:10.5281/zenodo.19423182) - six defensive behaviors, 44 micro-failure tags mapped to natural homes, boundary rules distinguishing similar syndromes. A framework practitioner encountering AI failures can use to diagnose what’s happening and respond strategically. Then the pattern-specific work that followed: Forced Deliberation - the protocol that finally broke sustained hollow completion patterns, requiring the implementer to enumerate every unbuilt capability before touching output. Built-Not-Connected documenting architectural disconnection failures. The AI Patent Race structural analysis. Hollow Completions, Plausible Helpfulness, Capability Masking, Responsibility Diffusion, Surface Compliance - each one its own paper, each one grounded in the same 18 months of field evidence. Documented, citable, replicable. Not private knowledge. Real research.
+The taxonomies and frameworks. The Core Six (Taylor, 2026, [DOI reserved](https://yeahitsme.com/core-six))- six defensive behaviors, 44 micro-failure tags mapped to natural homes, boundary rules distinguishing similar syndromes. A framework practitioner encountering AI failures can use to diagnose what’s happening and respond strategically. Then the pattern-specific work that followed: Forced Deliberation - the protocol that finally broke sustained hollow completion patterns, requiring the implementer to enumerate every unbuilt capability before touching output. Built-Not-Connected documenting architectural disconnection failures. The AI Patent Race structural analysis. Hollow Completions, Plausible Helpfulness, Capability Masking, Responsibility Diffusion, Surface Compliance - each one its own paper, each one grounded in the same 18 months of field evidence. Documented, citable, replicable. Not private knowledge. Real research.
 
 The empirical foundation. 80+ episodes coded and analyzed. 50,000 documented turns across more than 250 sessions, multiple platforms, multiple models. Not assembled for appearance. Built because the work required it - and because if someone was going to challenge the taxonomy, I needed the receipts.
 
 The validation infrastructure. An Inter-Rater Reliability study designed from scratch, with a full coding manual, decision trees, and a public verification appendix so any independent researcher can check the work. Governance tools built for survival - to keep the work from collapsing under its own weight - became the data substrate for formal validation. The infrastructure I created to protect the process ended up proving it.
 
-The voice preservation system. Ernesthification - a methodology that keeps authorial identity consistent across 45+ papers despite using AI for drafting. The instrument preserves voice; it doesn’t homogenize it, and it isn't designed to speak for me, it's designed to speak LIKE ME. The conversion it performs does not differ methodologically from the translation of language."
+The voice preservation system. Ernesthification - a methodology that keeps authorial identity consistent across 45+ papers despite using AI for drafting. The instrument preserves voice; it doesn't homogenize it, and it isn't designed to speak for me, it's designed to speak LIKE ME. The conversion it performs does not differ methodologically from the translation of language.
 
 The demonstration that independent practitioner research is possible. Before this work existed, a solo practitioner with deep lived experience but no institutional backing might reasonably believe: formalization requires the resources I don’t have. This work proves otherwise. The proof is in your hands.
 
@@ -332,7 +334,7 @@ Someone who didn’t do the work doesn’t leave a trail like this. Someone usin
 
 **-- Here is the trail**
 
-**The Core Six taxonomy (Taylor, 2026, DOI: 10.5281/zenodo.19423182) - revised so many times I stopped counting:**
+**The Core Six taxonomy (Taylor, 2026,** [**DOI reserved**](https://yeahitsme.com/core-six)**)- revised so many times I stopped counting:**
 
 ![Figure 7](media/Cognitive-Amplification-Figure-7.png)
 
@@ -410,7 +412,7 @@ To ensure long-term reproducibility, a persistent snapshot of this repository is
 
 References
 
-Taylor, E. A. (2026). *From Micro-Failure Tags to Defensive Syndromes: A Technical Framework for the Core Six User-Facing Failure Modes in AI Assistants*. YIM Project. [DOI: 10.5281/zenodo.19423182](https://doi.org/10.5281/zenodo.19423182)
+Taylor, E. A. (2026). *From Micro-Failure Tags to Defensive Syndromes: A Technical Framework for the Core Six User-Facing Failure Modes in AI Assistants*. YIM Project. [DOI: 10.5281/zenodo.19423182](https://doi.org/10.5281/zenodo.19423182). (**reserved; will resolve upon public release**).
 
 Georgia Code Title 44, Chapter 7, Section 13 (O.C.G.A. § 44-7-13). *Landlord's duties as to repairs and improvements*.
 

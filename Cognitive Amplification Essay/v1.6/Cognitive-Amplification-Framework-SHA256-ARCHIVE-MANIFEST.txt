@@ -1,6 +1,6 @@
 ﻿Cognitive Amplification Framework -- SHA256 Archive Manifest
-Generated: 2026-04-11 16:22:26
+Generated: 2026-04-12 10:58:47
 ======================================================================
-Archive: Cognitive-Amplification-Framework-v1.6-ARCHIVE.zip
-Size: 59.14 MB (62008017 bytes)
-SHA256: 9BB369EC1E20B0EC7BBBBD6B02C3AD11C1AAD91B547AAD037238258ABA00E4B4
+1E94B355738938D8DC3A5672D09A35975BC29C77722C7578F28F06F7D4E93BE7  Cognitive-Amplification-Framework-v1.6-ARCHIVE.zip
+
+ZIP file size: 61878558 bytes
