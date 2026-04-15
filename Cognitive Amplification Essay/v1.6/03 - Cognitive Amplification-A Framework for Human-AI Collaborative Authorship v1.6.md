@@ -1,4 +1,4 @@
-﻿﻿﻿![](media/Cognitive-Amplification-Cover-Image.png)
+﻿﻿![](media/Cognitive-Amplification-Cover-Image.png)
 
 Cognitive Amplification: A Framework for Human-AI Collaborative Authorship — and the Instruments that Make it Real
 
@@ -10,7 +10,7 @@ Abstract: Cognitive amplification is a methodology for human-AI collaborative wo
 
 
 Date: 2026-04-11
-DOI: 10.5281/zenodo.19425349 
+DOI: 10.5281/zenodo.19425349
 GitHub Repository Persistent Snapshot: Cognitive Amplification Essay
 
 Related work: From Micro-Failure Tags to Defensive Syndromes: A Technical Framework for the Core Six User-Facing Failure Modes in AI Assistants - the primary research corpus this essay references – (STATUS: The Core Six : DOI reserved - DOI:10.5281/zenodo.19423182)
@@ -410,8 +410,8 @@ To maintain authorial identity across 45+ papers without defaulting to the homog
 
 ### Data and Code Availability
 
-The data, audit trails, and code underlying this research are preserved in the YIM Project GitHub repository at: [[Cognitive Amplification Essay Repository](https://github.com/YIM-boss/YIM_Project/tree/074c6cc699489dbfb53b5d7e49e16015c3946755/Cognitive%20Amplification%20Essay)]  
-   
+The data, audit trails, and code underlying this research are preserved in the YIM Project GitHub repository at: [[Cognitive Amplification Essay Repository](https://github.com/YIM-boss/YIM_Project/tree/074c6cc699489dbfb53b5d7e49e16015c3946755/Cognitive%20Amplification%20Essay)]
+
 To ensure long-term reproducibility, a persistent snapshot of this repository is archived on Zenodo at [[DOI: 10.5281/zenodo.19425349](https://yeahitsme.com/cognitive-amplification)]. The CA paper audit trail is entirely open access. Supplemental forensic logs and dataset verifications for other projects are hosted under restricted access on Zenodo and are available to researchers upon reasonable request via the Zenodo portal.
 
 References
