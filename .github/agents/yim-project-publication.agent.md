@@ -101,28 +101,31 @@ a space on both sides of the hyphen.
 - **Short title (for manifest/zip names):** `FMFT-DefensiveSyndromes`
 - **Source in YIM_Research:** `C:\YIM_Research\Paper-Authoring\Core Six AI Defensive Behavior Framework\`
 
-**IMPORTANT -- v2.1.6 is NOT yet publication-ready in this repo.** The folder exists but uses
-inconsistent naming (no spaces, different suffix conventions, Word temp files present). Before
-hashing or zipping, the folder must be organized to match the standard convention. See
-PROCEDURE: ORGANIZE CORE SIX FOLDER below.
+**Status: PUBLISHED to repo on 2026-05-05.** Full package is live on main.
 
-**Current v2.1.6 source files (as found, need mapping to standard slots):**
+**v2.1.6 file inventory (committed, slot convention uses `NN-` with no space):**
 
-| Found file | Maps to slot | Action needed |
-|------------|-------------|---------------|
-| `01-...final.pdf` | 01 | Rename to `01 - {LongTitle} v2.1.6.pdf` |
-| `02-...final.docx` | 02 | Rename to `02 - {LongTitle} v2.1.6.docx` |
-| `02-...final.pdf` | DUPLICATE | Remove or reconcile with 01 |
-| `03-...final.md` | 03 | Rename to `03 - {LongTitle} v2.1.6.md` |
-| `05-...Supplementary-Materials.docx` | 05 | Rename to `05 - {LongTitle} v2.1.6 AUDIT-TRAIL.docx` or keep as supplementary? Confirm with user |
-| `06-...(audit trail).docx` | 05 | Rename to `05 - {LongTitle} v2.1.6 AUDIT-TRAIL.docx` |
-| `06-...(audit trail).md` | 06 | Rename to `06 - {LongTitle} v2.1.6 AUDIT-TRAIL.md` |
-| `07-...Public-Verification-Appendix.docx` | Verify slot | Confirm if this is 07 (verify report) or different |
-| `09-...Verification-Report.docx` | 07 | Rename to `07 - VERIFICATION-REPORT-v2.1.6.pdf` (needs PDF conversion) |
-| `images\` | `media\` | Rename folder |
-| `~$-...` files | DELETE | Word temp files, never commit |
+| Slot | Filename |
+|------|----------|
+| 01 | `01-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-final.pdf` |
+| 02 | `02-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-final.docx` |
+| 03 | `03-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-final.md` |
+| 04 | `04-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-Supplementary-Materials.pdf` |
+| 05 | `05-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-(audit trail).pdf` |
+| 06 | `06-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-v2.1.6-ARCHIVE.zip` |
+| 07 | `07-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-(Public-Verification-Appendix).pdf` |
+| 08 | `08-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-(Verification-Report).pdf` |
+| 09 | `09-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-SHA256-FILE-MANIFEST.txt` |
+| 10 | `10-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-SHA256-ARCHIVE-MANIFEST.txt` |
+| -- | `README.pdf` |
+| -- | `images/` with 3 named images + core-six-figure-1 through core-six-figure-21 |
 
-**STOP -- always confirm the exact mapping with the user before renaming Core Six files.**
+**IMPORTANT: Core Six uses `NN-` prefix (no space) unlike CA which uses `NN - ` (space-hyphen-space).**
+**ZIP is at slot 06 (not 09) -- this paper's convention differs from CA.**
+
+**Last archive hash (v2.1.6, committed 2026-05-05):**
+- ZIP SHA256: `1CDFD0E8BFA3798C2D13BCFB57946069E512FDABB8C42B1710685C0F700FDF03`
+- ZIP size: `76889260 bytes`
 
 ---
 
@@ -312,24 +315,6 @@ When the user says a new version exists (e.g., v1.7 of Cognitive Amplification):
 6. **Create `README.md`** -- model it after the CA essay README, updating all paper-specific details
 7. **Run PROCEDURE: REFRESH HASHES AND ARCHIVE** (all steps)
 8. **Stage, commit, push**
-
----
-
-## PROCEDURE: ORGANIZE CORE SIX FOLDER
-
-The Core Six v2.1.6 folder at `C:\YIM_Project\Core Six AI Defensive Behavior Framework\v2.1.6\`
-needs cleanup before it can be published. Steps:
-
-1. **Read the current directory** to confirm what is present
-2. **Identify and delete Word temp files** (`~$*.docx`, `~$*.md`) -- never commit these
-3. **Resolve the duplicate 02 PDF** -- confirm which is correct with user, delete the other
-4. **Confirm slot mapping** with user (the supplementary materials, public verification appendix
-   placement may differ from CA essay slots)
-5. **Rename all files** to match standard `NN - {LongTitle} v2.1.6 {descriptor}.{ext}` format
-6. **Rename `images\` to `media\`** and ensure figures are named `{ShortTitle}-Figure-N.{ext}`
-7. **Confirm missing slots** -- if 04 (audit trail PDF) is missing, note it but proceed without it
-8. **Create README.md** for the v2.1.6 folder
-9. **Run PROCEDURE: REFRESH HASHES AND ARCHIVE**
 
 ---
 
