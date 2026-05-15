@@ -1,6 +1,6 @@
 From Micro-Failures to Defensive Syndromes -- SHA256 Archive Manifest
-Generated: 2026-05-15 16:47:47
+Generated: 2026-05-15 17:40:42
 ======================================================================
-5367252219261B261CEFAEE40800B52CC0386820DAB5CF44F97E02D4F968ED3A  06-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-v2.1.6-ARCHIVE.zip
+5C2E7ED0D4CB39580DA50AD273A3E2E346C2403D9718C47A2E65049FA9BAF253  06-FromMicroFailuresToDefensiveSyndromes(LONG-VERSION)-v2.1.6-ARCHIVE.zip
 
-ZIP file size: 76892882 bytes
+ZIP file size: 76893015 bytes
